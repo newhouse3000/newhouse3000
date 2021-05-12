@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Leonardo da Vinci home page</title>
+    </head>
+    <style>
+        h1{color:red; text-decoration:underline; font-family:noto-sans;}
+        #title{position:absolute;top:24px;  right:100px;}
+        h2{color:green;}
+    </style>
+    <body>
+<h1>Leonardo da Vinci<div id = "title">1452-1519</div></h1>
+<h2>Basic Info About da Vinci</h2>
+<p>Leonardo da Vinci was an artist and a philosopher. He liked to draw the things he saw. There is a theory for that: when he drew stuff then he thought about it more. Also da Vinci wrote in shorthand, and mirrored.</p><p>Da Vinci drew many pages on architecture, the human face, botany, physics, engineering, cartography, and anatomy. He also drew Mona Lisa and The Last Supper paintings.</p>
+<a href = ''>Next Page</a>
+
+    </body>
+</html>
